@@ -1,8 +1,9 @@
 # TIPE
-Mon TIPE
+---
+Suivi des recherches
 
-
- - 31/01/2025
+#### 31/01/2025
+--
  - Outils à utiliser :
  - <a href="https://scholar.google.fr/schhp?hl=fr&as_sdt=0,5">Google Scholar</a>
   - Recherches du jour :
@@ -11,8 +12,18 @@ Mon TIPE
     - Réduction de bruit active :
       1. Comment ca marche? Active, passive ?
       2. Comment inverser la phase d'un signal : analogique numérique ?
-      3. Si la réduction de bruit active produit un "anti-son", produit-il une fatigue auditive ? car même si - par - = +, la réduction par production de bruit peut peut etre endommager l'oreille aussi.
-      4. Qu'en est-il du mode 'Transparence' ?
-      5. Quelle différence entre les casques et les ecouteurs ?
-      6. Faire un système diy
+      3. Si la réduction de bruit active produit un "anti-son", produit-il une fatigue auditive ? car même si - par - = +, la réduction par production de bruit peut peut être endommager l'oreille aussi.
+      4. Qu'en est-il du mode "Transparence" ?
+      5. Quelle différence entre les casques et les écouteurs ?
+      6. Faire un système DIY
     - Micros Neumann KU100 pour étudier les différents casques.
+
+-
+#### 2/02/2025
+Recherches du jour
+
+- Réduction de bruit active brevetée par Bose en 1996 au départ pour le domaine de l'aviation exclusivement.
+
+- La qualité de la réduction de bruit dépend du nombre de micros, de leur qualité, de la vitesse de la carte, le nombre d'écoute de l'environement extérieur (700/secondes). La qualité est bonne à partir de 4 micros par casque.
+
+- La réduction fonctionne d'autant mieux que les bruit à atténuer sont simples. Le grondement d'un moteur dans un avion, voiture, train sont simples à atténuer face à des discussions ou à des bruits de clavier qui sont plus imprévisibles.
