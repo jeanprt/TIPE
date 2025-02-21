@@ -1,4 +1,4 @@
-# TIPE
+# TIPE  
 ---
 Suivi des recherches
 
@@ -7,9 +7,9 @@ Suivi des recherches
  - Outils à utiliser :
  - <a href="https://scholar.google.fr/schhp?hl=fr&as_sdt=0,5">Google Scholar</a>
   - Recherches du jour :
-      - <a href="https://scholar.google.fr/scholar?hl=fr&as_sdt=0%2C5&q=r%C3%A9duction+de+bruit+active&btnG=&oq=r%C3%A9duction+de+bruit+">Réduction de bruit active</a>
+      - [Réduction de bruit active sur GoogleScholar](https://scholar.google.fr/scholar?hl=fr&as_sdt=0%2C5&q=r%C3%A9duction+de+bruit+active&btnG=&oq=r%C3%A9duction+de+bruit+)
   - Idées de sujet du jour :
-    - Réduction de bruit active :
+    - _**Réduction de bruit active**_ :
       1. Comment ca marche? Active, passive ?
       2. Comment inverser la phase d'un signal : analogique numérique ?
       3. Si la réduction de bruit active produit un "anti-son", produit-il une fatigue auditive ? car même si - par - = +, la réduction par production de bruit peut peut être endommager l'oreille aussi.
@@ -35,10 +35,39 @@ Recherches du jour :
 
 Vibiscus :  
 
-- Article sur Techniques de l'ingénieur.
+- [Article sur Techniques de l'ingénieur.](./Articles\ TI/Vibiscus - la fine fleur de la réduction de bruit | Techniques de l'Ingénieur.pdf)
 - Startup qui concoit des matériaux réduisant le son de manière active. Analogie avec les pixels d'un écran : Chaque partie du matériaux peut être modifié pour attenuer un son. Alternative à la réduction de bruit active par création de son en opposition de phase.
 
 Orosound start'up Francais production de casques à réduction de bruit active très efficace. STAGE ? A CONTATCTER !
+
+
+-
+#### 14/02/2025
+
+Lien avec L'aBRI UBordeaux. Peut être utile pour mener des expérimentations sur le son, son acquisition et son traitement numérique.    
+
+Liens donnés par Mr Raimi pour les recherches
+ - Technique de l'ingénieur
+ - sci hub
+ - universalis
+ - google scholar
+ - hal.archives-ouvertes
+ - sudoc abes
+ - https://hal.science
+ - https://bupdoc.udppc.asso.fr/
+ - https://culturesciencesphysique.ens-lyon.fr/
+ - https://eduscol.education.fr/sti/si-ens-paris-saclay
+ - https://pixees.fr/
+ - https://www.olymphys.fr/public/index.php
+
+Dans notre salle de classe, le néon faisait un bruit dérangeant. Je l'ai analysé : fréquence de 50 Hz. Plus tard en TP de Chimie, le bloc d'alimentation d'un agitateur magnétique produisait un son aigü vers un multiple de 50 Hz. Fort de ces deux expériences, je me suis dit qu'il devait exister un lien entre ces bruits et la fréquence d'oscillation du courant.
+
+ - [Vulgarisation bruit des Néons, Brut](https://www.brut.media/fr/videos/culture-lifestyle/musique/le-scintillement-et-le-bourdonnement-du-neon)
+
+ - Recherches sur le dB et le dBA...
+ - [Recherches Sur Hal `Réduction de bruit`](https://hal.science/search/index?q=r%C3%A9duction+de+bruit+active)
+ - [Recherches sur TI `réduction de bruit active`](https://www-techniques-ingenieur-fr.docelec.u-bordeaux.fr/search.html?types=822005e&sc=3f&dm=7fff&limit=10&query=r%C3%A9duction+de+bruit+active&page=1)
+
 
 
 
