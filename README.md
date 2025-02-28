@@ -47,18 +47,18 @@ Orosound start'up Francais production de casques à réduction de bruit active t
 Lien avec L'aBRI UBordeaux. Peut être utile pour mener des expérimentations sur le son, son acquisition et son traitement numérique.    
 
 Liens donnés par Mr Raimi pour les recherches
- - Technique de l'ingénieur
- - sci hub
- - universalis
- - google scholar
- - hal.archives-ouvertes
- - sudoc abes
- - https://hal.science
- - https://bupdoc.udppc.asso.fr/
- - https://culturesciencesphysique.ens-lyon.fr/
- - https://eduscol.education.fr/sti/si-ens-paris-saclay
- - https://pixees.fr/
- - https://www.olymphys.fr/public/index.php
+- Technique de l'ingénieur
+- sci hub
+- universalis
+- google scholar
+- hal.archives-ouvertes
+- sudoc abes
+- https://hal.science
+- https://bupdoc.udppc.asso.fr/
+- https://culturesciencesphysique.ens-lyon.fr/
+- https://eduscol.education.fr/sti/si-ens-paris-saclay
+- https://pixees.fr/
+- https://www.olymphys.fr/public/index.php
 
 Dans notre salle de classe, le néon faisait un bruit dérangeant. Je l'ai analysé : fréquence de 50 Hz. Plus tard en TP de Chimie, le bloc d'alimentation d'un agitateur magnétique produisait un son aigü vers un multiple de 50 Hz. Fort de ces deux expériences, je me suis dit qu'il devait exister un lien entre ces bruits et la fréquence d'oscillation du courant.
 
@@ -69,8 +69,12 @@ Dans notre salle de classe, le néon faisait un bruit dérangeant. Je l'ai analy
  - [Recherches sur TI `réduction de bruit active`](https://www-techniques-ingenieur-fr.docelec.u-bordeaux.fr/search.html?types=822005e&sc=3f&dm=7fff&limit=10&query=r%C3%A9duction+de+bruit+active&page=1)
 
 
+-
+#### 21/02/2025  
 
-
+Idées et infos de la semaine:  
+1. Néons
+	- Gaz
 
 
 ---
