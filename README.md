@@ -73,9 +73,57 @@ Dans notre salle de classe, le néon faisait un bruit dérangeant. Je l'ai analy
 #### 21/02/2025  
 
 Idées et infos de la semaine:  
-1. Néons
-	- Gaz
+1. Néons  
+- Gaz  
+  
+-
+#### 14/03/2025
+Recherches sur les vibrations induites par les transformateurs electriques.
+A maitriser avant de se pencher sur le sujet :  
 
+
+- [ ] Comment marche un transformateur
+- [ ] principe interne et fonctionnement 
+- [ ] Equations de fonctionnement
+- [ ] dégager un modèle simple
+
+Vidéo pour comprendre :
+
+- transformateurs sont au coeur de notre vie
+- dispositif pour transferer l'énergie electrique
+- seuelement en courant alternatfi et pas en continu
+- Là où les appareils traditionnels ont comme mesure l'ampère et le volt, on utilise le voltampère
+- deux bobines séparés par un noyeau de fer
+	- pas le même nombre de spires des deux côtés
+	- champs magnétiques des bobines transporté par le fer doux
+- transformateur élévateur / abaisseur
+-  à cause de la resistance du cable : petite tension => bcp de pertes, grande tension moins
+
+- transformateur est un convertisseur statique permettant de transformer une tension sinusoiïdale en unte autre tension sinusoïdale
+
+### 15 et 16/03/2025
+Visionnage de différentes vidéos pour commencer à comprendre.
+Les transformateurs jouent un rôle important dans notre quotidient puisqu'ils permettent de réhausser et d'abaisser la tension du courant pour arriver jusque dans nos maisons.
+
+#####Notion de courant triphasé :
+Pour des soucis de performances (puissance et moindres pertes) le courant triphasé est préférable au monophasé.
+Le courant triphasé possède trois phases décalées de 120° et d'un neutre (d'où 4 fils lors du transport) contre une phase et un neutre pour le monophasé. Les trois phases ont la même fréquence ($f = 50\text{ Hz}$ en France). 
+<img src="images/3_phase_AC_waveform.png" align="center" width="300px" alt="Allure des courbes du courant triphasé">
+*fig.1 : Allure des courbes du courant triphasé*
+
+Le courant triphasé alimente des machines ayant besoin de plus de puissance. Moteurs asynchornes.
+Montages en étoile Y ou en triangle Δ.
+
+#####Chemin de l'électricité en général :
+1. Énérgie prduite dans une centrale (nucléaire en France) délivre du courant triphasé à 12 kV
+2. Tension haussée par un *transformateur élévateur* à 230 kV pour le transport sur des longues distances dans les cables pour éviter les pertes par effet Joule (Ri^2)
+3. Transport
+4. Transformateur abaisseur à 69 kV pour distribution au réseau de moyenne distribution
+5. Lien avec les industriels qui possèdent leur propres transformateurs abaisseurs. Ils utilisent souvent le triphasé.
+6. Transformateur abaisseur à 12.4 kV pour la sous distribution entre les quartiers par exemple
+7. Transformateurs abaisseurs pour des chaque rue / quartier à 480/280V en triphasé ou 240/120V en monophasé.
+
+<img src="images/réseau.png" width="600px">
 
 ---
 ## À Faire
