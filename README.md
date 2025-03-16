@@ -35,7 +35,7 @@ Recherches du jour :
 
 Vibiscus :  
 
-- [Article sur Techniques de l'ingénieur.](./Articles\ TI/Vibiscus - la fine fleur de la réduction de bruit | Techniques de l'Ingénieur.pdf)
+- [Article sur Techniques de l'ingénieur.](./Articles\ TI/Vibiscus - la fine fleur de la réduction de bruit | Techniques de l'Ingénieur.pdf)
 - Startup qui concoit des matériaux réduisant le son de manière active. Analogie avec les pixels d'un écran : Chaque partie du matériaux peut être modifié pour attenuer un son. Alternative à la réduction de bruit active par création de son en opposition de phase.
 
 Orosound start'up Francais production de casques à réduction de bruit active très efficace. STAGE ? A CONTATCTER !
@@ -107,9 +107,9 @@ Les transformateurs jouent un rôle important dans notre quotidient puisqu'ils p
 
 #####Notion de courant triphasé :
 Pour des soucis de performances (puissance et moindres pertes) le courant triphasé est préférable au monophasé.
-Le courant triphasé possède trois phases décalées de 120° et d'un neutre (d'où 4 fils lors du transport) contre une phase et un neutre pour le monophasé. Les trois phases ont la même fréquence ($f = 50\text{ Hz}$ en France). 
+Le courant triphasé possède trois phases décalées de 120° et d'un neutre (d'où 4 fils lors du transport) contre une phase et un neutre pour le monophasé. Les trois phases ont la même fréquence ($f = 50\text{ Hz}$ en France).  
 <img src="images/3_phase_AC_waveform.png" align="center" width="300px" alt="Allure des courbes du courant triphasé">
-*fig.1 : Allure des courbes du courant triphasé*
+*fig. 1 : Allure des courbes du courant triphasé*
 
 Le courant triphasé alimente des machines ayant besoin de plus de puissance. Moteurs asynchornes.
 Montages en étoile Y ou en triangle Δ.
@@ -123,7 +123,8 @@ Montages en étoile Y ou en triangle Δ.
 6. Transformateur abaisseur à 12.4 kV pour la sous distribution entre les quartiers par exemple
 7. Transformateurs abaisseurs pour des chaque rue / quartier à 480/280V en triphasé ou 240/120V en monophasé.
 
-<img src="images/réseau.png" width="600px">
+<img src="images/reseau.png" width="600px" alt="Schéma du réseau de distribution électrique">  
+*fig. 2 : Schéma du réseau de distribution électrique*
 
 ---
 ## À Faire
