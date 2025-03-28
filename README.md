@@ -81,7 +81,7 @@ Idées et infos de la semaine:
 Recherches sur les vibrations induites par les transformateurs electriques.
 A maitriser avant de se pencher sur le sujet :  
 
-
+- [x] Distribution du réseau électrique
 - [ ] Comment marche un transformateur
 - [ ] principe interne et fonctionnement 
 - [ ] Equations de fonctionnement
@@ -123,10 +123,42 @@ Montages en étoile Y ou en triangle Δ.
 6. Transformateur abaisseur à 12.4 kV pour la sous distribution entre les quartiers par exemple
 7. Transformateurs abaisseurs pour des chaque rue / quartier à 480/280V en triphasé ou 240/120V en monophasé.
 
-<img src="images/reseau.png" width="600px" alt="Schéma du réseau de distribution électrique">  
+<img src="images/reseau.png" width="600px" alt="Schéma du réseau de distribution électrique">
 *fig. 2 : Schéma du réseau de distribution électrique*
 
+#### 21/03/2025 puis 28/03/2025
+#####Electromagnétisme :
+
+On a $dF_s = \displaystyle \int_S \vec{i}dl \land \vec{B}$
+
+On décrit le flux du chmap magnétique à travers une surface $\Sigma$ par : $\displaystyle \Phi = \iint_\Sigma \vec{B} \cdot \vec{n}\quad ds$  
+
+#####Fonctionnement du transformateur :
+
+![Schéma de principe du transformateur idéal](images/transfoideal.png)
+*fig. 3 : Schéma de principe du transformateur idéal*
+
+
+Le transformateur fonctionne par conduction de champ magnétiques. Une bobine primaire recoit un courant primaire créant un champ magnétique. Celui-ci est conduit par le noyeau en fer doux à une deuxième bobine qui va recevoir ce champ magnértique et le reconvertir en énergie electrique.
+Une spire de bobine correspond à un Volt transformé.
+
+$m = \dfrac{U_2}{U_1} = \dfrac{N_2}{N_1}$
+La puissance apparente maximale d'un transformateur est exprimée en VA.  
+
+######Pertes du transformateur  
+
+![Schema équivalent transformateur](images/Schema_equivalent_transformateur.png)
+*fig. 4 Schéma équivalent d'un transformateur réel*
+- Pertes par courants de Foucault, l'induction
+
+#### 28/03/2025
+Mr Raimi m'a trouvé une idée d'expérience. En gros, ca vibre dans le transfo à cause de la **magnétostriction** (et peut être le phénomène d'*hystérésis*). On peut mesurer ça par _interférométrie_ avec le dispositif suivant : ![Dispositif expérimental](images/phototp.jpg) *fig. 4 : Dispositif éxpérimental*
+
+L'idée est de mesurer grâce au prinicpe d'interférométrie de Michelson.
+
 ---
-## À Faire
+## À contacter
 - [ ] Contacter Orosound stage été
 - [ ] Contacter collègue de Julie Géan
+- [ ] Système de TP à l'IUT MP ?
+- [ ] Entreprise de transformateurs? ABB? EDF
