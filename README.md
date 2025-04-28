@@ -173,8 +173,8 @@ Papier de recherches écrit par J-B.DUPONT de l'entreprise **Vibratec**. Contact
 Principe du modèle :
 - méthode de résolution des équations aux dérivées partielles par la méthode des éléments finis.
 - modèle thermodynamique pour en déduire une analogie acoustique.
-	- modèle par la loi de Hook dont la forme simplifiée est : $\vec{F} = -k\;(l-l_0)\;\vec{u_x}$
-	- en posant $\sigma$ la contrainte $\sigma = \dfrac{F}{S} $ avec F la force et S la surface, puis en posant $\varepsilon = \dfrac{\Delta \ell}{\ell_0} = \dfrac{\ell-\ell_0}{\ell_0}$, la loi de Hooke s'exprime : $\sigma = E \; \varepsilon$, avec $E$ le module d'élasticité du matériau (module de Youg).
+	- modèle par la loi de Hooke dont la forme simplifiée est : $\vec{F} = -k\;(l-l_0)\;\vec{u_x}$
+	- en posant $\sigma$ la contrainte $\sigma = \dfrac{F}{S}$ avec F la force et S la surface, puis en posant $\varepsilon = \dfrac{\Delta \ell}{\ell_0} = \dfrac{\ell-\ell_0}{\ell_0}$, la loi de Hooke s'exprime : $\sigma = E \varepsilon$, avec $E$ le module d'élasticité du matériau (module de Youg).
 	- Écriture sous forme de tenseurs : $[\sigma]=[C]\cdot[\varepsilon]$.
 
 - découverte de l'entreprise **SADTEM**. Produit des Transformateurs à Douai (Lille) de basse et moyenne tension. Peut être intéréssant d'aller les rencontrer. [Site de SADTEM](https://www.sadtem.com/fr/entreprise/)
@@ -183,23 +183,19 @@ Principe du modèle :
 #### 10/04/2025
 Expérience menée à la maison:
 - mesure de différents champs électromagnétiques domestiques avec Phyfox:
-	- aimant : $\geqslant 5000 \;\mu T$
-	- transformateur chargeur d'ordinateur : faible, de l'ordre du $100 \;\mu T$
+	- aimant : $\geqslant 5000 \mu T$
+	- transformateur chargeur d'ordinateur : faible, de l'ordre du $100 \mu T$
 	- En portant l'oreille à un transformateur, on peut entendre le bruit de la magnétostriction. Ce phénomène est accru lorsque l'on place un aimant permanent sur la coque extérieur d'un tel transformateur :
 		- L'aimant se met dans la direction du champ magnétique de lui-même
 		- le bruit est plus important et toute la structure entre en vibration
 		- approcher un tel aimant proche d'un transformateur est-il dangeureux ? qu'en est-il de  ses performances avec un champ perturbateur ?
 
 #### 11/04/2025
-Discussion avec Mr Raimi. Apparament, je pars trop loin, j'ai encore élargit mes recherches...
+Discussion avec Mr Raimi. Apparament, je pars trop loin, j'ai encore trop élargit mes recherches... Il faut se reconcentrer sur la **MAGNÉTOSTRICTION**
 
 Téléphone Johan Boullet :
 - [x] message laissé...
 - [ ] appel ?
-
-
-
-# Il faut se reconcentrer sur la **MAGNÉTOSTRICTION**
 
 ---
 ## À contacter
