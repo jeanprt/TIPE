@@ -173,8 +173,8 @@ Papier de recherches écrit par J-B.DUPONT de l'entreprise **Vibratec**. Contact
 Principe du modèle :
 - méthode de résolution des équations aux dérivées partielles par la méthode des éléments finis.
 - modèle thermodynamique pour en déduire une analogie acoustique.
-	- modèle par la loi de Hooke dont la forme simplifiée est : $\vec{F} = -k\;(l-l_0)\;\vec{u_x}$
-	- en posant $\sigma$ la contrainte $\sigma = \dfrac{F}{S}$ avec F la force et S la surface, puis en posant $\varepsilon = \dfrac{\Delta \ell}{\ell_0} = \dfrac{\ell-\ell_0}{\ell_0}$, la loi de Hooke s'exprime : $\sigma = E \varepsilon$, avec $E$ le module d'élasticité du matériau (module de Youg).
+	- modèle par la loi de Hooke dont la forme simplifiée est : $\vec{F} = -k(l-l_0)\vec{u_x}$
+	- en posant $\sigma$ la contrainte $\sigma = \dfrac{F}{S}$ avec F la force et S la surface, puis en posant $\varepsilon = \dfrac{\Delta \ell}{\ell_0} = \dfrac{\ell-\ell_0}{\ell_0}$, la loi de Hooke s'exprime : $\sigma = E\cdot\varepsilon$, avec $E$ le module d'élasticité du matériau (module de Youg).
 	- Écriture sous forme de tenseurs : $[\sigma]=[C]\cdot[\varepsilon]$.
 
 - découverte de l'entreprise **SADTEM**. Produit des Transformateurs à Douai (Lille) de basse et moyenne tension. Peut être intéréssant d'aller les rencontrer. [Site de SADTEM](https://www.sadtem.com/fr/entreprise/)
