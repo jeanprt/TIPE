@@ -169,7 +169,7 @@ Contact par mail de Johan Boullet, de SupOptique dans le but d'aller réaliser l
 -
 #### 09/04/2025
 Lecture du papier de recherche sur la modélisation par un approche multiphysique du bruit d'un transformateu électrique.
-Papier de recherches écrit par J-B.DUPONT de l'entreprise **Vibratec**. Contacté! [Site de Vibratec](https://vibratec.fr/). Vibratec, entreprise de mesure physiques basée à Lyon en acoustique, analyse vibratoire, mesures de déformation...
+Papier de recherches écrit par J-B.DUPONT de l'entreprise **Vibratec**. Contacté! [Site de Vibratec](https://vibratec.fr/). Vibratec, entreprise de mesure physiques basée à Lyon en acoustique, analyse vibratoire, mesures de déformation...  
 Principe du modèle :
 - méthode de résolution des équations aux dérivées partielles par la méthode des éléments finis.
 - modèle thermodynamique pour en déduire une analogie acoustique.
