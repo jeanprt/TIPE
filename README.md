@@ -164,7 +164,7 @@ Contact par mail de Johan Boullet, de SupOptique dans le but d'aller réaliser l
 
 **Recherches sur la magnétostriction:**
 - Est une propriété des métaux féromagnétiques qui se déforment sous l'inlfuence d'un champ magnétique
-- la déformation est de l'ordre du $10^{-5} \;\text{m} =  10 \mu \,\text{m}$
+- la déformation est de l'ordre du $10^{-5}\text{m} =  10 \mu\text{m}$
 
 -
 #### 09/04/2025
