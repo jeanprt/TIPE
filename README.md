@@ -16,7 +16,7 @@ Ce document pêle-mêle répertorie chronologiquement toutes mes recherches et i
       6. Faire un système DIY
     - Micros Neumann KU100 pour étudier les différents casques.
 
--
+
 #### 2/02/2025
 Recherches du jour :
 
@@ -27,7 +27,7 @@ Recherches du jour :
 - La réduction fonctionne d'autant mieux que les bruit à atténuer sont simples. Le grondement d'un moteur dans un avion, voiture, train sont simples à atténuer face à des discussions ou à des bruits de clavier qui sont plus imprévisibles.
 
 
--
+
 #### 7/02/2025
 Recherches du jour :
 
@@ -39,7 +39,7 @@ Vibiscus :
 Orosound start'up Francaise production de casques à réduction de bruit active très efficace. STAGE ? A CONTATCTER !
 
 
--
+
 #### 14/02/2025
 
 Lien avec L'aBRI UBordeaux. Peut être utile pour mener des expérimentations sur le son, son acquisition et son traitement numérique.    
@@ -67,14 +67,14 @@ Dans notre salle de classe, le néon faisait un bruit dérangeant. Je l'ai analy
  - [Recherches sur TI `réduction de bruit active`](https://www-techniques-ingenieur-fr.docelec.u-bordeaux.fr/search.html?types=822005e&sc=3f&dm=7fff&limit=10&query=r%C3%A9duction+de+bruit+active&page=1)
 
 
--
+
 #### 21/02/2025  
 
 Idées et infos de la semaine:  
 1. Néons  
 - Gaz  
   
--
+
 #### 14/03/2025
 Recherches sur les vibrations induites par les transformateurs electriques.
 A maitriser avant de se pencher sur le sujet :  
@@ -99,12 +99,12 @@ Vidéo pour comprendre :
 
 - transformateur est un convertisseur statique permettant de transformer une tension sinusoiïdale en unte autre tension sinusoïdale
 
--
+
 #### 15 et 16/03/2025
 Visionnage de différentes vidéos pour commencer à comprendre.
 Les transformateurs jouent un rôle important dans notre quotidient puisqu'ils permettent de réhausser et d'abaisser la tension du courant pour arriver jusque dans nos maisons.
 
-#####Notion de courant triphasé :
+##### Notion de courant triphasé :
 Pour des soucis de performances (puissance et moindres pertes) le courant triphasé est préférable au monophasé.
 Le courant triphasé possède trois phases décalées de 120° et d'un neutre (d'où 4 fils lors du transport) contre une phase et un neutre pour le monophasé. Les trois phases ont la même fréquence ($f = 50\text{ Hz}$ en France).  
 <img src="images/3_phase_AC_waveform.png" align="center" width="300px" alt="Allure des courbes du courant triphasé">
@@ -113,7 +113,7 @@ Le courant triphasé possède trois phases décalées de 120° et d'un neutre (d
 Le courant triphasé alimente des machines ayant besoin de plus de puissance. Moteurs asynchornes.
 Montages en étoile Y ou en triangle Δ.
 
-#####Chemin de l'électricité en général :
+##### Chemin de l'électricité en général :
 1. Énérgie prduite dans une centrale (nucléaire en France) délivre du courant triphasé à 12 kV
 2. Tension haussée par un *transformateur élévateur* à 230 kV pour le transport sur des longues distances dans les cables pour éviter les pertes par effet Joule ($Ri^2$)
 3. Transport
@@ -125,7 +125,7 @@ Montages en étoile Y ou en triangle Δ.
 <img src="images/reseau.png" width="600px" alt="Schéma du réseau de distribution électrique">
 *fig. 2 : Schéma du réseau de distribution électrique*
 
--
+
 #### 21/03/2025 puis 28/03/2025
 ##### Electromagnétisme :
 
@@ -145,19 +145,19 @@ Une spire de bobine correspond à un Volt transformé.
 $m = \dfrac{U_2}{U_1} = \dfrac{N_2}{N_1}$
 La puissance apparente maximale d'un transformateur est exprimée en VA.  
 
-######Pertes du transformateur  
+###### Pertes du transformateur  
 
 ![Schema équivalent transformateur](images/Schema_equivalent_transformateur.png)
 *fig. 4 Schéma équivalent d'un transformateur réel*
 - Pertes par courants de Foucault, l'induction
 
--
+
 #### 28/03/2025
 Mr Raimi m'a trouvé une idée d'expérience. En gros, ca vibre dans le transfo à cause de la **magnétostriction** (et peut être le phénomène d'*hystérésis*). On peut mesurer ça par _interférométrie_ avec le dispositif suivant : ![Dispositif expérimental](images/phototp.jpg) *fig. 4 : Dispositif éxpérimental*
 
 L'idée est de mesurer, grâce au prinicpe d'interférométrie de Michelson, la déformation d'une barre de métal dans une bobine sous tension. **voir document explicatif ici :** [Étude de la magnétostriction](Articles/MFI_9_magnetostriction.pdf) 
 
--
+
 #### 02/04/2025
 Contact par mail de Johan Boullet, de SupOptique dans le but d'aller réaliser le TP là-bas.
 
@@ -165,7 +165,7 @@ Contact par mail de Johan Boullet, de SupOptique dans le but d'aller réaliser l
 - Est une propriété des métaux féromagnétiques qui se déforment sous l'inlfuence d'un champ magnétique
 - la déformation est de l'ordre du $10^{-5}\text{m} =  10 \mu\text{m}$
 
--
+
 #### 09/04/2025
 Lecture du papier de recherche sur la modélisation par un approche multiphysique du bruit d'un transformateu électrique.
 Papier de recherches écrit par J-B.DUPONT de l'entreprise **Vibratec**. Contacté! [Site de Vibratec](https://vibratec.fr/). Vibratec, entreprise de mesure physiques basée à Lyon en acoustique, analyse vibratoire, mesures de déformation...  
@@ -178,7 +178,7 @@ Principe du modèle :
 
 - découverte de l'entreprise **SADTEM**. Produit des Transformateurs à Douai (Lille) de basse et moyenne tension. Peut être intéréssant d'aller les rencontrer. [Site de SADTEM](https://www.sadtem.com/fr/entreprise/)
 
--
+
 #### 10/04/2025
 Expérience menée à la maison:
 - mesure de différents champs électromagnétiques domestiques avec Phyfox:
@@ -195,6 +195,10 @@ Discussion avec Mr Raimi. Apparament, je pars trop loin, j'ai encore trop élarg
 Téléphone Johan Boullet :
 - [x] message laissé...
 - [ ] appel ?
+
+#### 28/04/2025
+- appel réalisé, envoi du document, rdv prévu deuxième semaine de mai.
+
 
 ---
 ## À contacter
