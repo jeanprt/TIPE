@@ -1,5 +1,5 @@
 # TIPE  
-Ce document pêle-mêle répertorie chronologiquement toutes mes recherches et idées dans le but d'écrire ma MCOT et mon DOT conformément aux attendus du concours. Voir [2025_Attendus_Pedagogiques.pdf](Articles/2025_Attendus_Pedagogiques.pdf)
+Ce document pêle-mêle répertorie chronologiquement toutes mes recherches et idées dans le but d'écrire ma MCOT et mon DOT conformément aux attendus du concours. Voir [2025_Attendus_Pedagogiques.pdf](Articles/2025_Attendus_Pedagogiques.pdf).
 
 #### 31/01/2025
  - Outils à utiliser :
@@ -155,7 +155,7 @@ La puissance apparente maximale d'un transformateur est exprimée en VA.
 #### 28/03/2025
 Mr Raimi m'a trouvé une idée d'expérience. En gros, ca vibre dans le transfo à cause de la **magnétostriction** (et peut être le phénomène d'*hystérésis*). On peut mesurer ça par _interférométrie_ avec le dispositif suivant : ![Dispositif expérimental](images/phototp.jpg) *fig. 4 : Dispositif éxpérimental*
 
-L'idée est de mesurer, grâce au prinicpe d'interférométrie de Michelson, la déformation d'une barre de métal dans une bobine sous tension. **voir document explicatif ici :** ![Étude de la magnétostriction](Articles/MFI_9_magnetostriction.pdf) 
+L'idée est de mesurer, grâce au prinicpe d'interférométrie de Michelson, la déformation d'une barre de métal dans une bobine sous tension. **voir document explicatif ici :** [Étude de la magnétostriction](Articles/MFI_9_magnetostriction.pdf) 
 
 -
 #### 02/04/2025
