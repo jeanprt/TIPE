@@ -198,10 +198,8 @@ Texte normal suivi d’un <span style="color: #26B260">texte coloré en vert</sp
 
 Téléphone Johan Boullet :
 - [x] message laissé...
+- [ ] appel ?
 
-```
-mon quoicoubebou des montagnes, la chiasse ne t'arrêteras pas... ohoho, j'espère q'ace ne te manque pas troooooooop
-```
 
 
 # Il faut se reconcentrer sur la **MAGNÉTOSTRICTION**
