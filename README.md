@@ -116,7 +116,7 @@ Montages en étoile Y ou en triangle Δ.
 
 #####Chemin de l'électricité en général :
 1. Énérgie prduite dans une centrale (nucléaire en France) délivre du courant triphasé à 12 kV
-2. Tension haussée par un *transformateur élévateur* à 230 kV pour le transport sur des longues distances dans les cables pour éviter les pertes par effet Joule (Ri^2)
+2. Tension haussée par un *transformateur élévateur* à 230 kV pour le transport sur des longues distances dans les cables pour éviter les pertes par effet Joule ($Ri^2$)
 3. Transport
 4. Transformateur abaisseur à 69 kV pour distribution au réseau de moyenne distribution
 5. Lien avec les industriels qui possèdent leur propres transformateurs abaisseurs. Ils utilisent souvent le triphasé.
@@ -156,17 +156,15 @@ La puissance apparente maximale d'un transformateur est exprimée en VA.
 #### 28/03/2025
 Mr Raimi m'a trouvé une idée d'expérience. En gros, ca vibre dans le transfo à cause de la **magnétostriction** (et peut être le phénomène d'*hystérésis*). On peut mesurer ça par _interférométrie_ avec le dispositif suivant : ![Dispositif expérimental](images/phototp.jpg) *fig. 4 : Dispositif éxpérimental*
 
-L'idée est de mesurer grâce au prinicpe d'interférométrie de Michelson.
+L'idée est de mesurer, grâce au prinicpe d'interférométrie de Michelson, la déformation d'une barre de métal dans une bobine sous tension. **voir document explicatif ici :** ![Étude de la magnétostriction](Articles/MFI_9_magnetostriction.pdf) 
 
 -
 #### 02/04/2025
-Contact de Johan Boullet, de SupOptique dans le but d'aller réaliser le TP là-bas.
+Contact par mail de Johan Boullet, de SupOptique dans le but d'aller réaliser le TP là-bas.
 
 **Recherches sur la magnétostriction:**
 - Est une propriété des métaux féromagnétiques qui se déforment sous l'inlfuence d'un champ magnétique
-- la déformation est de l'ordre du $10^{-5}$m = $ 10 \mu\,\text{m}$
-- La distance est de $5$.
-- Les métaux dans les bobines ont tendances à se déformer
+- la déformation est de l'ordre du $10^{-5} \;\text{m} =  10 \mu \,\text{m}$
 
 -
 #### 09/04/2025
@@ -194,7 +192,6 @@ Expérience menée à la maison:
 
 #### 11/04/2025
 Discussion avec Mr Raimi. Apparament, je pars trop loin, j'ai encore élargit mes recherches...
-Texte normal suivi d’un <span style="color: #26B260">texte coloré en vert</span> dans un paragraphe.
 
 Téléphone Johan Boullet :
 - [x] message laissé...
