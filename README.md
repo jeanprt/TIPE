@@ -1,5 +1,5 @@
 # TIPE  
-Ce document pêle-mêle répertorie chronologiquement toutes mes recherches et idées dans le but d'écrire ma MCOT et mon DOT conformément aux attendus du concours. Voir ![2025_Attendus_Pedagogiques.pdf](Articles/2025_Attendus_Pedagogiques.pdf)
+Ce document pêle-mêle répertorie chronologiquement toutes mes recherches et idées dans le but d'écrire ma MCOT et mon DOT conformément aux attendus du concours. Voir [2025_Attendus_Pedagogiques.pdf](Articles/2025_Attendus_Pedagogiques.pdf)
 
 #### 31/01/2025
  - Outils à utiliser :
